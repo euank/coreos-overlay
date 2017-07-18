@@ -1,0 +1,5 @@
+ID=packet
+VERSION_ID=@@OEM_VERSION_ID@@
+NAME="Oracle Cloud"
+HOME_URL="https://cloud.oracle.com/"
+BUG_REPORT_URL="https://issues.coreos.com"
