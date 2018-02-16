@@ -4,7 +4,8 @@
         "images": [
             {
                 "name": "docker",
-                "reference": "1.12"
+                "reference": "1.12",
+		"format": "squashfs"
             }
         ]
     }

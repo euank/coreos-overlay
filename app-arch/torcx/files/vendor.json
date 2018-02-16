@@ -4,7 +4,8 @@
         "images": [
             {
                 "name": "docker",
-                "reference": "com.coreos.cl"
+                "reference": "com.coreos.cl",
+		"format": "squashfs"
             }
         ]
     }
